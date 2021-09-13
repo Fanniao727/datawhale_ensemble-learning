@@ -3,15 +3,7 @@
 
 ### Task 1 最小解发现
 
-给定下述Rosenbrock函数，![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)，其中![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)，![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)。试编写程序完成下述工作：
-
-1）为不同的a,b取值，绘制该函数的3D表面。请问 a,b取值对该表面形状有大的影响吗？，所谓大影响就是形状不再相似。对a,b的取值区间，能否大致给出一个分类，像下面这样给出一张表：
-
-|                                                              | ![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png) | ![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png) |  …   |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | :--: |
-| ![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png) | 形状1的3D图形                                                | 形状2的3D图形                                                |      |
-| ![img](file:///C:/Users/x1398/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png) | 形状3的3D图形                                                | 形状4的3D图形                                                |      |
-| ..                                                           |                                                              |                                                              |      |
+![image-20210913175444018](E:\Datawhale\HW\datawhale_ensemble-learning\image-20210913175444018.png)
 
  
 
