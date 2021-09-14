@@ -3,8 +3,6 @@
 
 ### Task 1 最小解发现
 
-![image-20210913175444018](E:\Datawhale\HW\datawhale_ensemble-learning\image-20210913175444018.png)
-
  
 
 ```
